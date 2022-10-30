@@ -1,0 +1,30 @@
+
+.valueStyle {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 45px;
+    padding: 10px;
+    color: #6AE0FF;
+    min-width: 250px;
+}
+
+.countStyle {
+    display: flex;
+    justify-content: space-between;
+    border: 3px #6AE0FF solid;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #4E4E4E;
+    width: 300px;
+    text-align: center;
+}
+.maxCountStyle {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 37px;
+    min-width: 250px;
+    font-weight: bold;
+    color: red;
+}

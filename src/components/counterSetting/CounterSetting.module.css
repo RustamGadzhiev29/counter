@@ -1,0 +1,33 @@
+.counterSettings {
+    display: flex;
+    justify-content: space-between;
+    border: 3px #6AE0FF solid;
+    border-radius: 15px;
+    padding: 10px 10px;
+    background-color: #4E4E4E;
+    font-size: 30px;
+    width: 300px;
+}
+
+.inputBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #6AE0FF;
+    padding: 5px;
+    align-items: flex-start;
+}
+
+.input {
+    border: 3px #6AE0FF solid;
+    outline: none;
+    margin-left: 10px;
+    text-align: center;
+}
+.inputError {
+    outline: none;
+    margin-left: 10px;
+    text-align: center;
+    border-color: red;
+    background-color: hotpink;
+}
